@@ -16,7 +16,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding"/>
 
-Hi! I'm **Sumaiya Afroza**, a passionate MERN stack frontend developer from Sylhet, Bangladesh 🇧🇩. I love turning ideas into beautiful and functional web apps while exploring the latest in tech. Right now, I'm diving deep into React.js, Next.js, and TypeScript — coding, problem-solving, and designing every day! My motto: *Code with passion, design with purpose* ✨
+Hi, I’m Sumaiya Afroza, a results-driven Frontend Developer specializing in the MERN stack. I’m passionate about building clean, scalable, and accessible web applications that offer great user experiences. My focus is on writing efficient React code, applying modern UI/UX principles, and continuously improving through learning and collaboration.
+
+Currently, I’m exploring Next.js and TypeScript to strengthen my development skills and contribute to meaningful projects.
 
 <br clear="right"/>
 
