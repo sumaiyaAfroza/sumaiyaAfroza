@@ -30,8 +30,8 @@ Currently, I’m exploring Next.js and TypeScript to strengthen my development s
 ## 📌 Current Activities
 
 - 🌐 Exploring **Next.js**
-- 🌍 Working on a **tourism website**
-- 📘 Learning **TypeScript** and advanced React patterns
+- 🌍 Working on a **Digital Wallet website**
+- 📘 Learning **TypeScript** and Redux React patterns
 - ⚡ Building modern, responsive **React projects**
 - 🤝 Contributing to open-source projects
 
