@@ -69,14 +69,21 @@ Currently, I’m exploring Next.js and TypeScript to strengthen my development s
 </div>
 
 
-## 📊 GitHub Stats
-
+📈 GitHub Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiyaAfroza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiyaAfroza&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiyaAfroza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyaAfroza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyaAfroza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyaAfroza&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
+</div>
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumaiyaAfroza&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 What I'm Working On
