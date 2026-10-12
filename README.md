@@ -103,19 +103,29 @@ Hi, I'm **Sumaiya Afroza** — a results-driven **Frontend Developer** specializ
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<!-- Stats — different reliable host -->
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumaiyaAfroza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumaiyaAfroza&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" alt="Top Languages" />
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sumaiyaAfroza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyaAfroza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sumaiyaAfroza&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiyaAfroza&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaiyaAfroza&theme=radical" alt="Profile Details" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumaiyaAfroza&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumaiyaAfroza&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumaiyaAfroza&theme=radical&utcOffset=6" width="32%" />
 </div>
 
 
